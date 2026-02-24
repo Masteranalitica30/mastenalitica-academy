@@ -1,1 +1,19 @@
-
+{
+"cursos":[
+{
+"nombre":"ISO 17025",
+"inicio":"02/02/2026",
+"horas":"16"
+},
+{
+"nombre":"Metrología Básica",
+"inicio":"02/03/2026",
+"horas":"16"
+},
+{
+"nombre":"Metrología Avanzada",
+"inicio":"16/03/2026",
+"horas":"20"
+}
+]
+}
